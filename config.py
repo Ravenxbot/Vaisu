@@ -20,7 +20,7 @@ OWNER_ID = int(getenv("OWNER_ID", 7403621976))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/reetsingh886/Vaishu-Music")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Ravenxbot/Vaisu")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", "YOUR_GIT_TOKEN") # FOR PRIVATE SOURCE DEPLOYMENT 
 
@@ -50,10 +50,10 @@ votemode = {}
 autoclean = []
 confirmer = {}
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/fu6jk3.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/26nzoq.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/f2s4ws.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/z0gh23.jpg"
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/ukijyp.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/ym2zou.jpg")
+PLAYLIST_IMG_URL = "https://files.catbox.moe/ukijyp.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/ym2zou.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
