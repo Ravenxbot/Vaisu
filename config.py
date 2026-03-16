@@ -50,7 +50,7 @@ votemode = {}
 autoclean = []
 confirmer = {}
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/ukijyp.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/fu6jk3.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/ym2zou.jpg")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/ukijyp.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/ym2zou.jpg"
